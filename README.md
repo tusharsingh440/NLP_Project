@@ -1,2 +1,4 @@
 # NLP_Project
-NLP Project as part of Deep learning module. Task was to get a classifier to correctly classify sentences to machine translated or human translated. 
+NLP Project as part of Deep learning module. Task was to get a classifier to predict if a sentence has been translated by a human or a machine.
+Although the above pynb only has a simple CNN, an LSTM was also attempted but later discarded due to the computational load. Secondly various methods of tokezniation were used
+such as the GloVe embedding. 
